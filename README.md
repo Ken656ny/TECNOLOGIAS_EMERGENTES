@@ -1,4 +1,4 @@
-# 🚀 Tecnologías Emergentes
+# Tecnologías Emergentes by cristhian U
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Commits](https://badgen.net/github/commits/Ken656ny/TECNOLOGIAS_EMERGENTES)
@@ -11,7 +11,7 @@ Aquí encontrarás diferentes prácticas y actividades desarrolladas en Python, 
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 El repositorio incluye los siguientes archivos y módulos:
 
@@ -24,7 +24,7 @@ El repositorio incluye los siguientes archivos y módulos:
 
 ---
 
-## 📜 Historial de cambios
+##  Historial de cambios
 
 | Commit ID | Descripción | Tiempo |
 |-----------|-------------|--------|
@@ -34,7 +34,7 @@ El repositorio incluye los siguientes archivos y módulos:
 
 ---
 
-## ⚙️ Requisitos
+##  Requisitos
 
 Antes de ejecutar los scripts, asegúrate de tener instalado:
 
