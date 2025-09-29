@@ -64,12 +64,12 @@ def realidad_aumentada():
     """
 
     imagenes = {
-        0: cv2.imread("java.jpg"),
-        1: cv2.imread("javascript.jpg"),
-        2: cv2.imread('sena.png'),
-        3: cv2.imread('vscode.jpg'),
-        4: cv2.imread('xamp.jpg'),
-        5: cv2.imread('pyhon.png'),
+        0: cv2.imread("/imagenes/java.jpg"),
+        1: cv2.imread("/imagenes/javascript.jpg"),
+        2: cv2.imread('/imagenes/sena.png'),
+        3: cv2.imread('/imagenes/vscode.jpg'),
+        4: cv2.imread('/imagenes/xamp.jpg'),
+        5: cv2.imread('/imagenes/pyhon.png'),
     }
 
     for id_img, img in imagenes.items():
